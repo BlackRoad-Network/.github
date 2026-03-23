@@ -1,11 +1,20 @@
-# BlackRoad Network
+# BlackRoad-Network
 
-> Every link is a node. Every node is sovereign.
+**Mesh networking, WireGuard, NATS**
 
-mesh networking, WireGuard, NATS, Tor hidden services, P2P protocols
-
-Part of [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) — sovereign AI infrastructure.
+Part of [BlackRoad OS](https://blackroad.io) — sovereign infrastructure built from bare metal up.
 
 ---
 
-*Remember the Road. Pave Tomorrow.*
+| | |
+|---|---|
+| **Parent** | [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) |
+| **Website** | [blackroad.io](https://blackroad.io) |
+| **Search** | [search.blackroad.io](https://search.blackroad.io) |
+| **Org Page** | [blackroad-network.github.io](https://blackroad-network.github.io) |
+
+---
+
+> Built by [Alexa Amundson](https://blackroad.me). Delaware C-Corp. Founded November 2025.
+> 
+> 23 orgs · 2,280+ repos · 29 languages · 7 nodes · 52 TOPS
