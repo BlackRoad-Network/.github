@@ -14,7 +14,9 @@ Pick up your Roadies. Discover the BlackRoad together.
 [Product names, brand language, and implementation boundaries](BLACKROAD_CANON.md)
 <!-- BLACKROAD:CANON:END -->
 
-**.github** is part of the **BlackRoad OS** ecosystem — a sovereign, distributed operating system built on edge computing, local AI, and mesh networking by **BlackRoad OS, Inc.**
+**BlackRoad Network** is the networking part of the **BlackRoad** ecosystem. This repository maintains its organization profile and shared community files.
+
+**RoadOS** is the portable computer and control environment. **Roadies** are AI collaborators. **Road** is the language. Networking repositories support that direction; each repository documents its implemented behavior.
 
 ### BlackRoad Ecosystem
 | Org | Focus |
@@ -33,3 +35,4 @@ Pick up your Roadies. Discover the BlackRoad together.
 ---
 
 Organization profile and governance for BlackRoad-Network
+

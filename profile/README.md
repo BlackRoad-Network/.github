@@ -14,9 +14,11 @@ Pick up your Roadies. Discover the BlackRoad together.
 [Product names, brand language, and implementation boundaries](../BLACKROAD_CANON.md)
 <!-- BLACKROAD:CANON:END -->
 
-> *Sovereign mesh. Zero surveillance.*
+> *Remember the Road. Pave Tomorrow.*
 
-35 repositories. Mesh networking, WireGuard tunnels, NATS message bus, Tor hidden services, and P2P infrastructure for the BlackRoad Pi fleet.
+BlackRoad Network brings together networking repositories, coordination tools, and fleet infrastructure for the BlackRoad ecosystem. RoadOS is the portable computer and control environment; Roadies are AI collaborators; Road is the language.
+
+Explore mesh networking, WireGuard tunnels, NATS messaging, Tor services, and peer-to-peer infrastructure in the repositories below. Repository documentation describes each implementation and its current status.
 
 ## What Lives Here
 - **WireGuard** — Encrypted mesh across 7 Pi nodes
@@ -30,3 +32,4 @@ Alice · Lucidia · Cecilia · Gematria · Anastasia · Aria · Octavia
 
 ---
 *Part of [BlackRoad OS, Inc.](https://os.blackroad.io) — Remember the Road. Pave Tomorrow.* 🖤🛣️
+
