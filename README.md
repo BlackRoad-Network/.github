@@ -1,11 +1,18 @@
-<!-- BlackRoad SEO Enhanced -->
-
 # .github
 
-> Part of **[BlackRoad OS](https://blackroad.io)** — Sovereign Computing for Everyone
+<!-- BLACKROAD:CANON:START -->
+## The Road. Pave Tomorrow.
 
-[![BlackRoad OS](https://img.shields.io/badge/BlackRoad-OS-ff1d6c?style=for-the-badge)](https://blackroad.io)
-[![BlackRoad-Network](https://img.shields.io/badge/Org-BlackRoad-Network-2979ff?style=for-the-badge)](https://github.com/BlackRoad-Network)
+**We access it all at RoadOS.**  
+**We collaborate with Roadies.**  
+**We code in Road.**
+
+*Integration is Innovation.*
+
+Pick up your Roadies. Discover the BlackRoad together.
+
+[Product names, brand language, and implementation boundaries](BLACKROAD_CANON.md)
+<!-- BLACKROAD:CANON:END -->
 
 **.github** is part of the **BlackRoad OS** ecosystem — a sovereign, distributed operating system built on edge computing, local AI, and mesh networking by **BlackRoad OS, Inc.**
 
